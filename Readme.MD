@@ -5,7 +5,7 @@
 
 <ul>
 <li>Open new tab: chrome://extensions</li>
-<li>Drag and drop `bolderly.crx` into chrome://extensions tab</li>
+<li>Drag and drop bolderly.crx into chrome://extensions tab</li>
 <li>Confirm you want to add it</li>
 <li>Fin.</li>
 </ul>
